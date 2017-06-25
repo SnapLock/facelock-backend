@@ -1,0 +1,9 @@
+[package]
+name = "facelock"
+version = "0.1.0"
+authors = ["david"]
+
+[dependencies]
+rocket = "*"
+rocket_codegen = "*"
+multipart = "*"
